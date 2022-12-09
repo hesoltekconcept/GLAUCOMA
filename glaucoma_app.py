@@ -19,7 +19,7 @@ def import_and_predict(image_data, model):
 model = tf.keras.models.load_model('my_model2.h5')
 
 st.write("""
-         # ***Glaucoma detector***
+         # ***Glaucoma detector using image processing by Gafar***
          """
          )
 
